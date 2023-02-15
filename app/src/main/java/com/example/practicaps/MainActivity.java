@@ -52,6 +52,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         passLog = findViewById(R.id.edit_pass_log);
         btnLog = findViewById(R.id.button_log);
         registro = findViewById(R.id.button_registro);
+        
+        int test = 1;
     }
 
     private void admin(){
