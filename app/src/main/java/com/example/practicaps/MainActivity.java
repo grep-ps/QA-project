@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnLog = findViewById(R.id.button_log);
         registro = findViewById(R.id.button_registro);
         
-        int test = 1;
     }
 
     private void admin(){
