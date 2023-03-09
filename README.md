@@ -1,2 +1,2 @@
-# PracticaPS
+# Práctica de Calidad Software
  
