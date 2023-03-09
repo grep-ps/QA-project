@@ -1,2 +1,2 @@
-# Práctica de Calidad Software
+# Práctica de QA
  
